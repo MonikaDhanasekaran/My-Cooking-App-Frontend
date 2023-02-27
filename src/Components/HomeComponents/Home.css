@@ -1,0 +1,514 @@
+/* Recent Recipes */
+
+/* Div */
+
+#home{
+    background-image: url("../images/home.webp");
+    width: 100%;
+    height: 37cm;
+}
+
+/* Card */
+
+#cardRecipe{
+    width: 340px;
+    height: 100%;
+    margin-left: 10px;
+    border-radius: 30px;
+}
+
+/* P tag */
+
+#pHome{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 2px #b4b3ae;
+    color: rgb(61, 15, 15);
+    margin-top: 10px;
+}
+
+/* a tag */
+
+#atagRecipe{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Button */
+
+#button{
+    width: 100px;
+    padding: 10px;
+}
+
+/* Typography */
+
+#typoRecipes{
+    font-size: 17px;
+}
+
+#typoRecipe{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19px;
+}
+
+/* Indian Recipes */
+
+/* Div */
+
+#indian{
+    background-image: url("../images/indian.webp");
+    width: 100%;
+    height: 37cm;
+}
+
+/* Card */
+
+#cardIndian{
+    width: 340px;
+    height: 100%;
+    border-radius: 30px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+/* a tag */
+
+#atagIndian{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Button */
+
+#indianButton{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Typography */
+
+#indianTypo{
+    font-size: 30px;
+    font-family: "papyrus";
+}
+
+#typoIndian{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#typoIndians{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+/* Chinese Recipes */
+
+/* Div */
+
+#chinese{
+    background-image: url("../images/chinese.webp");
+    width: 100%;
+    height: 37cm;
+}
+
+/* Card */
+
+#cardChinese{
+    width: 340px;
+    height: 100%;
+    border-radius: 30px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+/* a tag */
+
+#atagChinese{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Button */
+
+#chineseButton{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Typography */
+
+#chineseTypo{
+    font-size: 30px;
+    font-family: "Brush Script MT";
+}
+
+#typoChinese{
+    font-size: 20px;
+    font-family: "Ink Free";
+}
+
+#typoChineses{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+/* Asian Recipes */
+
+/* Div */
+
+#asian{
+    background-image: url("../images/asian.jpg");
+    width: 100%;
+    height: 37cm;
+}
+
+/* Card */
+
+#cardAsian{
+    width: 340px;
+    height: 100%;
+    border-radius: 30px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+/* a tag */
+
+#atagAsian{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Button */
+
+#asianButton{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Typography */
+
+#asianTypo{
+    font-size: 40px;
+    font-family: "Gabriola";
+}
+
+#typoAsian{
+    font-size: 20px;
+    font-family: "Goudy Old Style";
+}
+
+#typoAsians{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+/* Japanese Recipes */
+
+/* Div */
+
+#japanese{
+    background-image: url("../images/japanese.jpg");
+    width: 100%;
+    height: 20cm;
+    position: fixed;
+}
+
+/* Card */
+
+#cardJapanese{
+    width: 340px;
+    height: 100%;
+    border-radius: 30px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+/* a tag */
+
+#atagJapanese{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Button */
+
+#japaneseButton{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Typography */
+
+#japaneseTypo{
+    font-size: 30px;
+    font-family: "MV Boli";
+}
+
+#typoJapanese{
+    font-size: 20px;
+    font-family: "papyrus";
+}
+
+#typoJapaneses{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+/* Italian Recipes */
+
+/* Div */
+
+#italian{
+    background-image: url("../images/italian.jpg");
+    width: 100%;
+    height: 28cm;
+}
+
+/* Card */
+
+#cardItalian{
+    width: 340px;
+    height: 100%;
+    border-radius: 30px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+/* a tag */
+
+#atagItalian{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Button */
+
+#italianButton{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Typography */
+
+#italianTypo{
+    font-size: 30px;
+    font-family: "Corbel";
+}
+
+#typoItalian{
+    font-size: 20px;
+    font-family: "NSimSun";
+}
+
+#typoItalians{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+/* Snack Recipes */
+
+/* Div */
+
+#snack{
+    background-image: url("../images/snack.jpg");
+    width: 100%;
+    height: 38cm;
+}
+
+/* Card */
+
+#cardSnack{
+    width: 340px;
+    height: 100%;
+    border-radius: 30px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+/* a tag */
+
+#atagSnack{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Button */
+
+#snackButton{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Typography */
+
+#snackTypo{
+    font-size: 30px;
+    font-family: "Bahnschrift SemiBold";
+}
+
+#typoSnack{
+    font-size: 20px;
+    font-family: "Copperplate Gothic Light";
+}
+
+#typoSnacks{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+/* Continental Recipes */
+
+/* Div */
+
+#continental{
+    background-image: url("../images/continental.jpg");
+    width: 100%;
+    height: 38cm;
+}
+
+/* Card */
+
+#cardContinental{
+    width: 340px;
+    height: 100%;
+    border-radius: 30px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+/* a tag */
+
+#atagContinental{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Button */
+
+#continentalButton{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Typography */
+
+#continentalTypo{
+    font-size: 30px;
+    font-family: "Copperplate Gothic Light";
+}
+
+#typoContinental{
+    font-size: 20px;
+    font-family: OCR A Std, monospace;
+}
+
+#typoContinentals{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+/* Dessert Recipes */
+
+/* Div */
+
+#dessert{
+    background-image: url("../images/dessert.jpeg");
+    width: 100%;
+    height: 38cm;
+}
+
+/* Card */
+
+#cardDessert{
+    width: 340px;
+    height: 100%;
+    border-radius: 30px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+/* a tag */
+
+#atagDessert{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Button */
+
+#dessertButton{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Typography */
+
+#dessertTypo{
+    font-size: 30px;
+    font-family: "Ink Free";
+}
+
+#typoDessert{
+    font-size: 20px;
+    font-family: "Javanese Text";
+}
+
+#typoDesserts{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+/* Starter Recipes */
+
+/* Div */
+
+#starter{
+    background-image: url("../images/starter.jpg");
+    width: 100%;
+    height: 38cm;
+}
+
+/* Card */
+
+#cardStarter{
+    width: 340px;
+    height: 100%;
+    border-radius: 30px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+/* a tag */
+
+#atagStarter{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Button */
+
+#starterButton{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Typography */
+
+#starterTypo{
+    font-size: 30px;
+    font-family: "Lucida Console";
+}
+
+#typoStarter{
+    font-size: 20px;
+    font-family: "MingLiU_HKSCS";
+}
+
+#typoStarters{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
